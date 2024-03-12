@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "registry.cn-hangzhou.aliyuncs.com": {
+            "username": "a121673163",
+            "password": "HUB_PASSWORD"
+        }
+    },
+    "images": {
+          "k8s.gcr.io/metrics-server/metrics-server": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-server"
+    }
+}

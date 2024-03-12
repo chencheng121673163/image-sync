@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "k8s.gcr.io/metrics-server/metrics-server": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-server"
+          "registry.k8s.io/metrics-server/metrics-server": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-server"
     }
 }

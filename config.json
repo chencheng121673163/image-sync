@@ -1,11 +1,11 @@
 {
     "auth": {
-        "registry.cn-hangzhou.aliyuncs.com": {
-            "username": "a121673163",
-            "password": "HUB_PASSWORD"
+        "registry.baidubce.com": {
+            "username": "da9e38f0b1ec4446ad81b1778b733387",
+            "password": "BAIDU_HUB_PASSWORD"
         }
     },
     "images": {
-          "registry.k8s.io/metrics-server/metrics-server": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-server"
+          "registry.k8s.io/metrics-server/metrics-server": "registry.baidubce.com/hcc-k8s/metrics-server"
     }
 }

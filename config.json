@@ -6,6 +6,7 @@
         }
     },
     "images": {
+          "docker.elastic.co/beats/filebeat:7.17.3": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/beats/filebeat:7.17.3",
           "neuvector/scanner:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/scanner:latest",
           "neuvector/updater:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/updater:latest"
     }

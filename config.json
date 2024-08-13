@@ -1,11 +1,12 @@
 {
     "auth": {
-        "registry.baidubce.com": {
-            "username": "da9e38f0b1ec4446ad81b1778b733387",
-            "password": "BAIDU_HUB_PASSWORD"
+        "registry.cn-jssz1.ctyun.cn": {
+            "username": "cn-jssz1@SQVWP6IY8X2OLB4IQIEO",
+            "password": "HUB_PASSWORD"
         }
     },
     "images": {
-          "registry.k8s.io/metrics-server/metrics-server": "registry.baidubce.com/hcc-k8s/metrics-server"
+          "neuvector/scanner:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/scanner:latest",
+          "neuvector/updater:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/updater:latest"
     }
 }

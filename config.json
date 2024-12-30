@@ -5,6 +5,7 @@
             "password": "HUB_PASSWORD"
         }
     },
+    
     "images": {
           "neuvector/scanner:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/scanner:latest",
           "neuvector/updater:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/neuvector/updater:latest"
